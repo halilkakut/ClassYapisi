@@ -1,0 +1,16 @@
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ExampleClass-1.exe
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ExampleClass-1.deps.json
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ExampleClass-1.runtimeconfig.json
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ExampleClass-1.runtimeconfig.dev.json
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ExampleClass-1.dll
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ref\ExampleClass-1.dll
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\bin\Debug\net5.0\ExampleClass-1.pdb
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.AssemblyInfo.cs
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.dll
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ref\ExampleClass-1.dll
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.pdb
+C:\Users\halil\Desktop\Pratikler\ClassYapisi\ExampleClass-1\obj\Debug\net5.0\ExampleClass-1.genruntimeconfig.cache
